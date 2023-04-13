@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="enter_a_list_of_values_separated_by_commas">Enter a list of values separated by commas:</string>
+    <string name="generate">Generate</string>
+</resources>
